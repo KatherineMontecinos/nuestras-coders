@@ -1,0 +1,77 @@
+.contenedor1 {
+	position: absolute;
+	left: 50px;
+}
+
+.contenedor2 {
+	position: absolute;
+	top: 310px;
+	left: 50px;
+}
+
+.boxsize {
+	height: 200px;
+	width: 200px;
+}
+
+.img1 {
+	background-image: url('../img/profile-1.png');
+	background-repeat: no-repeat;
+	position: absolute;
+}
+
+.img2 {
+	background-image: url('../img/profile-2.png');
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 230px;
+}
+
+.img3 {
+	background-image: url('../img/profile-3.png');
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 460px;
+}
+
+.img4 {
+	background-image: url('../img/profile-4.png');
+	background-repeat: no-repeat;
+	position: absolute;
+}
+
+.img5 {
+	background-image: url('../img/profile-5.png');
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 230px;
+}
+
+.img6 {
+	background-image: url('../img/profile-6.png');
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 460px;
+}
+
+hr {
+	width: 80px;
+	margin-top: 2px;
+	margin-left: 20px;
+	margin-bottom: 25px;
+	border: 2px solid black;
+	
+}
+
+p {
+	position: absolute;
+	color: white;
+	right: 0;
+	bottom: 0;
+	margin-bottom: 2px;
+	margin-right: 5px;
+}
+
+h3 {
+	margin-left: 20px;
+}
